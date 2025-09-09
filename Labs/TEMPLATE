@@ -1,0 +1,12 @@
+// TEMPLATE
+#include <iostream>
+using namespace std;
+
+// Globals
+
+int main() {
+  
+  // Locals and Body
+  
+  return 0;
+}
